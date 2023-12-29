@@ -8,7 +8,7 @@
 - [프로토타입 웹](https://cuai-cv-project-g5ncyoawma3myuruh4kghk.streamlit.app/)
 
 
-<img width="1416" alt="IPO_Indiactors_CS_FlowChart" src="https://github.com/GGoodong/IPO_Indicators_CS/assets/132545436/143b9af7-0067-4e7e-bf64-da7f18d25a74">
+<img width="1416" alt="IPO_Indiactors_CS_FlowChart" src="https://github.com/binineni/CUAI-CV-Project/assets/56299800/41fc8ec4-f214-4846-88d4-7e44aeb105a6">
 
 <br/><br/>
 
